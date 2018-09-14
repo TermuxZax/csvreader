@@ -1,2 +1,2 @@
-# cvsreader
-CVSReader | Termux_Zax 
+# csvreader
+CSVReader | Termux_Zax
